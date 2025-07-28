@@ -20,7 +20,6 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Feedback App'),
-        // centerTitle: true,
         actions: [
           PopupMenuButton<ThemeMode>(
             icon: Icon(

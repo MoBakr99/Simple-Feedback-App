@@ -60,7 +60,6 @@ class _FeedbackScreenState extends State<FeedbackScreen> {
                 Text(
                   'Name: ${feedbackData.name}\n'
                   'Email: ${feedbackData.email}\n'
-                  // 'Rating: ${feedbackData.rating} Stars\n'
                   'Message:\n${feedbackData.message}',
                 ),
               ],
@@ -186,7 +185,6 @@ class _FeedbackScreenState extends State<FeedbackScreen> {
                     ),
                     SizedBox(width: 5),
                     Icon(Icons.send),
-                    // How to center the text and icon together?
                   ],
                 ),
               ),
