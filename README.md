@@ -93,3 +93,6 @@ class Feed {
 - Add user authentication
 - Support for cloud sync
 - Export feedbacks as CSV/PDF
+
+## App Preview
+![alt text](feedback_app/assets/app%20preview/Screenshot_1754334962.png)![alt text](feedback_app/assets/app%20preview/Screenshot_1754335074.png)![alt text](feedback_app/assets/app%20preview/Screenshot_1754335041.png)![alt text](feedback_app/assets/app%20preview/Screenshot_1754335141.png)
